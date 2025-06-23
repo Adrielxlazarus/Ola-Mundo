@@ -29,12 +29,12 @@ body{
     align-items: center;
     flex-direction: column;
     display: flex;
-    background-color: cadetblue;
+    background-color: #b2aa99;
 }
 .container p{
     font-size: 1.3rem;
-    color: white;
-    text-shadow: 2px 2px 2px black;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px rgb(255, 249, 249);
     margin: 10px;
 }
 .container b{
